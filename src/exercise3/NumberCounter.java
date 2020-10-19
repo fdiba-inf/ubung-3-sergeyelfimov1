@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 
+=======
+package exercise3;
+
+import java.util.Scanner;
+
+public class NumberCounter {
+  public static void main(String[] args) {
+    Scanner input = new Scanner(System.in);
+>>>>>>> origin/master
     int number = input.nextInt();
     int count = 0;
     double sum = 0;
@@ -22,4 +32,8 @@
     } 
   }
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master
